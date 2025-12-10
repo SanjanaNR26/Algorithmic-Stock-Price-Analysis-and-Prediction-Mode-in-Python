@@ -107,7 +107,8 @@ If you want, I can:
 
 ## OUTPUT
 
-<img width="1135" height="317" alt="Screenshot 2025-12-10 102557" src="https://github.com/user-attachments/assets/4961c12e-44d4-45d1-a80b-a6be7ae66892" />
+<img width="1135" height="317" alt="Screenshot 2025-12-10 102557" src="https://github.com/user-attachments/assets/c6a69441-78a6-412e-af09-b00f557e8af4" />
+
 
 
 **The website link is http://localhost:8509**
