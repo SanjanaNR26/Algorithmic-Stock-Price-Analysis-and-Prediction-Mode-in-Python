@@ -93,8 +93,9 @@ This should return results quickly because grid search is disabled and the model
 - Add an option for `RandomizedSearchCV` with a user-configurable `n_iter` / time budget.
 - Compute permutation importance asynchronously for non-tree models and cache results.
 
-**License & Attribution**
-- This repository is provided as-is for educational and prototyping purposes. Reuse under your preferred license.
+## License
+
+This tool is for educational and research purposes only.
 
 ---
 
